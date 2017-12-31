@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidOCRSample</string>
+    <string name="error_prompt">Detector dependencies are not yet available</string>
+</resources>
